@@ -1,1 +1,0 @@
-# pradeepyoi.github.io
