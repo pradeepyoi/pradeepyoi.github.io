@@ -1,0 +1,78 @@
+.bg{background-color: #B0E0E6;
+	  
+    }
+<!-- https://www.w3schools.com/cssref/tryit.asp?filename=trycss_background-color-->
+body {
+  background-color: coral;
+}
+
+h1 {
+    border: 1px solid black;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: rgba(255, 0, 0, 0.6);
+    }
+h2 {
+	  text-decoration: underline;
+     border: 1px solid black;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+	
+	 }
+	
+#nxt {background-color:yellow;
+      border: 1px solid black; 
+	  text-align: center;
+	  background-image: url('snow.jpg')
+
+     }
+
+  
+
+
+.education {
+    border: 1px dotted black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 1px;
+  background-color: whitesmoke;
+  float: right;
+
+  
+}
+
+.page2 {
+    border: 1px dotted black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 8px;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  background-color: brown;
+  float: right;
+ background-image: url('snow.jpg')
+  
+}
+header{
+	border: 1px solid black;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: rgba(255, 0, 0, 0.6);
+	
+}
